@@ -31,8 +31,9 @@ Linux:
 https://github.com/mailhog/MailHog/releases/download/v1.0.1/MailHog_linux_amd64
 ```
 
-or Run the file in this folder:
+or Run the below file in this folder:
 ```shell
+MailHog_windows_amd64.exe
 ```
 
 Run:
